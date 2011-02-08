@@ -4,6 +4,32 @@ This is the code from the MvcCOnf Real World Application Development with Mvc3 N
 
 The Castle version is 2.5.2, and the NHibernateFacility is a custom build, I will be making a pull request, so hopefull it will make it in, or something similar will soon
 
+
+URLs
+
+Castle
+http://castleproject.org/
+http://stw.castleproject.org/
+http://groups.google.com/group/castle-project-users
+
+NHibernate
+http://nhforge.org/Default.aspx
+http://groups.google.com/group/nhusers
+
+FluentNHibernate
+http://fluentnhibernate.org/
+http://groups.google.com/group/fluent-nhibernate
+http://stackoverflow.com/questions/tagged/fluent-nhibernate
+
+
+AutoMapper
+http://automapper.codeplex.com/
+
+Thanks :D
+
+@chriscanal
+
+
 Mvc Configuration
 ----------------------
 New Mvc DI goodness?
