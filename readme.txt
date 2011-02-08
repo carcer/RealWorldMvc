@@ -25,6 +25,9 @@ http://stackoverflow.com/questions/tagged/fluent-nhibernate
 AutoMapper
 http://automapper.codeplex.com/
 
+FEEDBACK! pretty please :)
+http://spkr8.com/t/5520
+
 Thanks :D
 
 @chriscanal
