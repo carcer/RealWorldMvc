@@ -1,0 +1,9 @@
+@model BrowseProducts
+
+@{
+    ViewBag.Title = "Browsing " + Model.CategoryName;
+}
+
+<h1>@Model.CategoryName</h1>
+
+@Html.Partial("productList", Model.Products)

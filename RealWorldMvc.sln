@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealWorld.Tests", "RealWorld.Tests\RealWorld.Tests.csproj", "{170114E4-1077-4A66-962E-14A6AB20A783}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RealWorldMvc3", "RealWorldMvc3\RealWorldMvc3.csproj", "{534587BB-DC94-4063-B2AD-E897C5C32634}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{170114E4-1077-4A66-962E-14A6AB20A783}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{170114E4-1077-4A66-962E-14A6AB20A783}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{170114E4-1077-4A66-962E-14A6AB20A783}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{170114E4-1077-4A66-962E-14A6AB20A783}.Release|Any CPU.Build.0 = Release|Any CPU
+		{534587BB-DC94-4063-B2AD-E897C5C32634}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534587BB-DC94-4063-B2AD-E897C5C32634}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534587BB-DC94-4063-B2AD-E897C5C32634}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534587BB-DC94-4063-B2AD-E897C5C32634}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

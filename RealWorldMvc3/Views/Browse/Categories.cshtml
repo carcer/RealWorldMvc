@@ -1,0 +1,12 @@
+@{
+    ViewBag.Title = "Browsing Categories";
+}
+
+@model IEnumerable<CategoryDetail>
+
+<ul>
+@foreach (var category in Model)
+{
+    <li>@(Html.ActionLink<BrowseController>(x => x.Products(category.Id), category.Name))</li>
+}
+</ul>

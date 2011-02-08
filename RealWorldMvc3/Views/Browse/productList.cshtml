@@ -1,0 +1,7 @@
+@model IEnumerable<ProductDetail>
+
+<ul>
+@foreach (var product in Model) {
+    <li>@(Html.ActionLink<DisplayController>(x => x.Product(product.Id), product.Name))</li>
+}
+</ul>
